@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pxrtypo1sxn
+- 👋 Hi, I’m @pxrtypo1sxn  (Ray, he/him) 
 - 👀 I’m interested in open source software among other things.
 - 🌱 I’m currently learning JavaScript. 
 - 💞️ I’m looking to collaborate on VEX Robotics & music-based projects.
